@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange vvonder or a wonder in a vvoman, vvherein is plainely expressed the true nature of most women. Especially of some emminent women in this citie. Likewise a plaine discription of many mad tricks and slights lately performed by a zealous sister which was overcome with the Spirit. Written by I. H. gentleman.</title>
+            <author>I. H., Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87002</idno>
+            <idno type="STC">Wing H50</idno>
+            <idno type="STC">Thomason E144_5</idno>
+            <idno type="STC">ESTC R11709</idno>
+            <idno type="EEBO-CITATION">99859111</idno>
+            <idno type="PROQUEST">99859111</idno>
+            <idno type="VID">111177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111177)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange vvonder or a wonder in a vvoman, vvherein is plainely expressed the true nature of most women. Especially of some emminent women in this citie. Likewise a plaine discription of many mad tricks and slights lately performed by a zealous sister which was overcome with the Spirit. Written by I. H. gentleman.</title>
+                  <author>I. H., Gentleman.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111177:1"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:111177:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <p>A STRANGE VVONDER OR A WONDER IN A VVoman, VVherein is plainely ex<g ref="char:EOLhyphen"/>preſſed the true nature of moſt Women.</p>
+            <p>Eſpecially of ſome emminent Women in this Citie.</p>
+            <p>Likewiſe a plaine diſcription of many mad tricks and ſlights lately performed by a Zealous Siſter which was overcome with the Spirit.</p>
+            <p>Written by <hi>I. H.</hi> Gentleman.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>I. T.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111177:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:111177:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>A Strange VVonder, OR A VVonder in a VVOMAN.</head>
+            <head type="sub">Wherein is plainely expreſſed the true nature of moſt Women.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Oemen are admirable Angels, if they would not be drawne with Angells to be come Devills, but to the purpoſe gentle eader, I intend to give you a true diſ<g ref="char:EOLhyphen"/>cription of a Woeman in perticular, of all Weoman in Generall, deſiring all Iudicious men Silent, Vertuous Modeſt, and diſcreet Woeman to cenſure of me according to my deſert, As for the reſt though they let looſe their Tippets, Yea and their
+<pb n="2" facs="tcp:111177:3"/>
+               <!-- PDF PAGE 38 -->
+Toungs too, I vallue it not, For I know that every Gall'd Horſe will kicke and winch. As I am <hi>Tom-tell-troth,</hi> I meane to ſet the Sadle vpon the right Mare, And as for the firſt, to wit, Mayds when they are cour<g ref="char:EOLhyphen"/>ted by their Sweet Hearts.</p>
+            <p>As thus, a Handſome Young Man comes to them, and after a Salutation, begin to make knowne his A<g ref="char:EOLhyphen"/>morous Sute as followeth.</p>
+            <p>Sweet Miſtris (or faire Virgine) thinke it not ſtrang that your all Commanding Beuty, has made me be<g ref="char:EOLhyphen"/>come a willing Bondſlave, to your Sweet ſelfe, The Sparkling luſture of your Stare like Eyes, has kindled in me ſuch an ardent love. That I am a fire to—kiſſe you.</p>
+            <p>Then forſooth, my Squeamiſh, Mayd, puts one a counterfit coyneſſe and in ſtead of a Kiſſe flapps him in the Mouth with—piſh fie away Sir, indeed I ſcorne to Kiſſe, On my Virginity, I cannot enduer this fool<g ref="char:EOLhyphen"/>ing and ſo forth, when inwardly ſhe longs for't, And were ſhe in a Corner in the Darke ſhe would Kiſſe; and Kiſſe, and Clipp, and melt into all the formes of Venery that art can deviſe, And thers her Honeſtie.</p>
+            <p>Then for the Wives, Ther's ſcarce one good of twenty, if I ſhould ſay Forty, I thinke I ſhould not lye, for one Scoulds, another Powts, one is Lazy, another Sluttiſh, a third Proud, a fourth a downe right Drun<g ref="char:EOLhyphen"/>kerd, a fift a Title-tatle Goſhopp, and ſo from one to a Hundred, from a Hundred, to a Thouſand, from a Thouſand to many Thouſands: You ſhall ſcarce find one that is not Giulty of one abominable Crime or o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <pb n="3" facs="tcp:111177:3"/>
+               <!-- PDF PAGE 38 -->
+And yet let them get to the Taverne Halfe a Douz<g ref="char:EOLhyphen"/>en of them, They in the hight of their Cupps, ſhall like ſo many Proud ſhe <hi>Phariſees,</hi> Every one Iuſtifie themſelves as thus, I thanke GOD I never cal'd my huſ<g ref="char:EOLhyphen"/>band Knave, nor Drunkard, I never ſtrove to weare the Breeches, and many ſuch things, When to my Knowledge ſhe hath cal'd him Rouge and Raſcall, And made him weare the Horne, Then ſayes a Second tru<g ref="char:EOLhyphen"/>ly Goſhopp I commend you for my owne part, I muſt confeſſe I am a litle to haſty, And oftentimes vſe my Tounge more then I have thanke for my Labours eſ<g ref="char:EOLhyphen"/>pecially of my Huſband. Likewiſe a third gives her Verdict, Truely Goſhopp quoth ſhe the Tounge is an vnruely Member, Beſides you know that Woman are the weaker Veſſells, &amp; men ought to beare with our infermities (as we beare them) And you know neigh<g ref="char:EOLhyphen"/>bour that the vprighteſt man falls Seven times a DAY, Then we Woman may very well fall Fourteene times a Night, being the weaksr Veſſells, as I tould you be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>This is their Diſcourſe ſome two Houres or perhaps three, In which time they Arrive at a Reckoning of ſome Fourteene or Fifteene Shillings, which being paid, downe Stayers they goe, And being come in<g ref="char:EOLhyphen"/>to the Street, They expreſſe their weakeneſſe, being ſcarce able to ſtand on their Legs: At length ſtag<g ref="char:EOLhyphen"/>gering each, to hir Houſe, If any of their Huſbands happen to be at Home and demand where they have been, They looke preſently on their Apron Strings which inſpires them with a Lye, With which they flapp their too credulous Huſbands in the Mouth.  Thirdly <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:111177:4"/>
+               <!-- PDF PAGE 39 -->
+Truely Sweet Heart I have been to ſee ſuch an Aunt, Or I have beene at a Gentle woemans Labour, and I am ſo weary and the like, Which the good Man be<g ref="char:EOLhyphen"/>lieves. Thus they make their Huſbands Honeſt Cre<g ref="char:EOLhyphen"/>dulitye, The Subject of their ill Huſwifery.</p>
+            <p>Then you ſhall have Another; Nay many that ſeeme to love their Huſbands well, But yet Love a<g ref="char:EOLhyphen"/>nother Woemans Huſband better, And that is the Trick of a diſembling WHORE, But yet of all WHORES there is no WHORE to a Holy WHORE, which when ſhe turnes up the White of her Eye, And the Blacke of her Tayle when ſhe falls flat of her Backe, Accor<g ref="char:EOLhyphen"/>ding as the Spirit moves her, The Fire of her Zeale, Kindles ſuch a Flame, that the Divell cannot with<g ref="char:EOLhyphen"/>ſtand her, Beſides ſhe can fit a man with ſuch a Cloake for her Knavery ſhe can cover her Luſt with Religion, O! theſe Laſſes that can riſe and get them ready by Six a Cloake in the Morning to goe to <hi>Chriſt</hi> Church, And then in the Afternoone to go to Saint <hi>Autholing</hi> O! how they liſten for that <hi>Tinckle tanckle</hi> bell that rovſes them in a morning to a ſtirring exceciſe, but I am afraid that a great many of them love the bell for the Clapper ſak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they love the ſmock though they hate the ſurplis, ſo much for that.</p>
+            <p>But leaſt I ſhould incurre the diſpleaſure of all woe<g ref="char:EOLhyphen"/>men for laying ope the erorrs of ſome, I will now be<g ref="char:EOLhyphen"/>gin to turne the Catt in the Pan as the ould ſaying i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and leaving theſe, Goſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p to amend. I will now ſay alitle concerning good woemen, if there be any ſuch as ſure there are, though ſcarce, and I veryly beleeue if every one would, amend one, we ſhould have a great
+<pb n="5" facs="tcp:111177:4"/>
+               <!-- PDF PAGE 39 -->
+many more then we have, but I am afraid they will be ſo farre from takeing my councell that they will ſooner reward me with a ſcratcht Crowne, then with any oth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reward, for my friendly admonition. As for the good women <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need ſpend no time to praiſe them their works will ſaint-like declare their worths and their vertues ſha<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine on earth much, more in Heaven divine.</p>
+            <q>
+               <l>Good Woemen are like starres in darkeſt night,</l>
+               <l>Their vertuous actions ſhining as a light.</l>
+               <l>To guide their Ignoraent ſex which oft' times fall,</l>
+               <l>And falling oft turnes Diabolicall.</l>
+               <l>Their good examples oft times does perſwade,</l>
+               <l>A zealous Siſter from hir falling trade.</l>
+               <l>Good weomen ſure are Angels on the earth,</l>
+               <l>Of theſe good Angells wee have had a darth.</l>
+               <l>And therefore all you men that have good wives</l>
+               <l>Reſpect their vertues equall with your lives.</l>
+            </q>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
